@@ -1,0 +1,1 @@
+Place infinity_pickaxe.png here (16x16 or larger). A placeholder texture is not included.
